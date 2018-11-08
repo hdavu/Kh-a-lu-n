@@ -1,0 +1,6 @@
+C:\opencv\build\include
+
+C:\opencv\build\x64\vc14\lib
+
+
+opencv_world341d.lib
